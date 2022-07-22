@@ -1,5 +1,6 @@
 {
-  "name": "my-react-shop",
+  "name": "shop-project",
+  "homepage": "https://ZelElizaveta.github.io/React-Store",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

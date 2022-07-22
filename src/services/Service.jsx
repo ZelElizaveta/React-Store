@@ -1,4 +1,4 @@
-import {API_URL, API_KEY} from '../config';
+import {API_URL} from '../config';
 
 
 export default class Service {
@@ -6,7 +6,7 @@ export default class Service {
     getResource = async () => {
         const res = await fetch(API_URL, {
             headers: {
-                'Authorization': API_KEY
+                'Authorization': '7d4f8953-510a49c9-0a5df488-559d4550'
             },
         });
         if(!res.ok) {
