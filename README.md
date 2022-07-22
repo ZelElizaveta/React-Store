@@ -1,1 +1,1 @@
-Учебный проект React-Shop. Demo:
+Учебный проект React-Shop с использованием API https://fortniteapi.io. Demo:
